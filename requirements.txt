@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+rdkit
+xgboost
+deap
+chembl_webresource_client
